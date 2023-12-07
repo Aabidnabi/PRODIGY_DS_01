@@ -20,7 +20,7 @@ Detail the steps required to set up the project locally. Include any dependencie
 bash
 Copy code
 # Clone the repository
-git clone https://github.com/your-username/data-visualization-project.git
+git clone https://github.com/Aabidnabi/PRODIGY_DS_1
 
 # Navigate to the project directory
 cd data-visualization-project
