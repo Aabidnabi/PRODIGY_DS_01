@@ -1,10 +1,10 @@
 # PRODIGY_DS_1
 Data Visualization Project
 
-#Overview
+# Overview
 This project aims to create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, specifically focusing on demographic data such as the distribution of ages or genders in a population. The dataset used for this project is sourced from the World Bank, and it can be accessed here.
 
-#Table of Contents
+# Table of Contents
 Introduction
 Installation
 Usage
@@ -13,10 +13,10 @@ Visualization
 Contributing
 License
 
-#Introduction
+# Introduction
 Provide a brief introduction to the project, explaining its purpose and goals. Mention the significance of visualizing demographic data and how it can contribute to a better understanding of population distributions.
 
-#Installation
+# Installation
 Detail the steps required to set up the project locally. Include any dependencies or libraries that need to be installed. For example:
 bash
 Copy code
