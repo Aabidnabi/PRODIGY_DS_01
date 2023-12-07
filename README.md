@@ -38,13 +38,13 @@ npm run visualize
 Data
 Briefly describe the dataset used in the project. Include the source link and any key information about the dataset's structure and contents.
 
-#Dataset Information
+# Dataset Information
 Source: World Bank Dataset
 Description: The dataset provides information on the total population over time for various countries.
 Visualization
 Describe the process of creating the bar chart or histogram. Highlight any interesting findings or patterns observed in the data. Include a sample image of the visualization.
 
-#Sample Bar Chart
+# Sample Bar Chart
 ![download](https://github.com/Aabidnabi/PRODIGY_DS_1/assets/69672207/d4861d67-0ec9-494d-ae6e-e211d962013c)<br>
 ![download (1)](https://github.com/Aabidnabi/PRODIGY_DS_1/assets/69672207/e8f11bb9-4ccf-4897-ad12-b04d79309129)<br>
 ![download (3)](https://github.com/Aabidnabi/PRODIGY_DS_1/assets/69672207/a1da0d11-9998-44ca-bb37-773cae71b805)<br>
