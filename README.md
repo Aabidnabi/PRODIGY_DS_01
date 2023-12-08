@@ -38,8 +38,7 @@ Understanding the distribution of demographic variables is crucial for various f
 
 # Installation
 Detail the steps required to set up the project locally. Include any dependencies or libraries that need to be installed. For example:
-bash
-Copy code
+
 # Clone the repository
 git clone https://github.com/Aabidnabi/PRODIGY_DS_1
 
@@ -51,8 +50,7 @@ npm install
 Usage
 Explain how to use the project, including any configuration settings or parameters. Provide examples of commands or scripts that users can run to generate the bar chart or histogram.
 
-bash
-Copy code
+
 # Run the visualization script
 npm run visualize
 Data
